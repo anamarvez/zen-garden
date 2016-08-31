@@ -1,0 +1,65 @@
+
+#css-zen-garden {
+	background-image: url("https://image-pd.s3.envato.com/files/43630225/Five%20white%20jasmine%20flowers%20and%20leaves%20over%20zen%20stone%20background.jpg");
+	font-family:arial;
+		margin-top: 70px;
+		margin-right: 90px;
+		margin-bottom: 20px;
+		margin-left: 90px;
+	}
+	.page-wrapper {
+		color:white;
+		background: rgba(184,184,184,1);
+		background: #6E6E6E;
+		border-radius: 102px 102px 102px 102px;
+		-moz-border-radius: 102px 102px 102px 102px;
+		-webkit-border-radius: 102px 102px 102px 102px;
+		border: 63px dashed #000000;
+		border:2px solid black;
+		text-align: justify;
+		}
+h1 	{
+	background: #4d4d4d;
+	margin-right: 300px;
+	margin-left: 300px;
+	font-size:250%;
+	text-align: center;
+	border:5px solid black;
+	border-radius: 102px 102px 102px 102px;
+	-moz-border-radius: 102px 102px 102px 102px;
+	-webkit-border-radius: 102px 102px 102px 102px;
+	}
+h2	{
+	background: #808080;
+	margin-right: 700px;
+	margin-left: 10px;
+	color: white;
+	text-indent: 15px;
+	border-radius: 102px 102px 102px 102px;
+	-moz-border-radius: 102px 102px 102px 102px;
+	-webkit-border-radius: 102px 102px 102px 102px;
+	}
+h3	{
+	background: #808080;
+	margin-right: 800px;
+	margin-left: 20px;
+	color: white;
+	font-style: italic;
+	text-indent: 25px;
+	border-radius: 102px 102px 102px 102px;
+	-moz-border-radius: 102px 102px 102px 102px;
+	-webkit-border-radius: 102px 102px 102px 102px;
+	}
+
+p   {
+	margin: 10px 80px 10px 50px;
+	}
+
+hr {
+    height: 1px;
+    border: 0;
+    background-color: white;
+}
+
+footer {text-align: center;}
+
